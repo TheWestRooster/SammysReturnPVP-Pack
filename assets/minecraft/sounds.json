@@ -1,0 +1,23 @@
+{
+	"custom.amogus.kill":
+	{
+		"sounds":
+		[
+			"custom/Amogus/kill"
+		]
+	},
+	"custom.amogus.report":
+	{
+		"sounds":
+		[
+			"custom/Amogus/report"
+		]
+	},
+	"custom.amogus.vent":
+	{
+		"sounds":
+		[
+			"custom/Amogus/vent"
+		]
+	}
+}
