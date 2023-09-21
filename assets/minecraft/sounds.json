@@ -27,6 +27,20 @@
 			"custom/Papa/saut"
 		]
 	},
+	"custom.sammy.transcendance":
+	{
+		"sounds":
+		[
+			"custom/Sammy/transcendance"
+		]
+	},
+	"custom.sammy.ultra_instinct":
+	{
+		"sounds":
+		[
+			"custom/Sammy/ultra_instinct"
+		]
+	},
 	"custom.shrek.shrek":
 	{
 		"sounds":
