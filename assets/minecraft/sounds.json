@@ -19,5 +19,26 @@
 		[
 			"custom/Amogus/vent"
 		]
+	},
+	"custom.papa.saut":
+	{
+		"sounds":
+		[
+			"custom/Papa/saut"
+		]
+	},
+	"custom.shrek.shrek":
+	{
+		"sounds":
+		[
+			"custom/Shrek/Shrek"
+		]
+	},
+	"custom.shrek.shrek2":
+	{
+		"sounds":
+		[
+			"custom/Shrek/Shrek2"
+		]
 	}
 }
