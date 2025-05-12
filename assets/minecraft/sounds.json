@@ -3,63 +3,91 @@
 	{
 		"sounds":
 		[
-			"custom/Amogus/kill"
+			 "custom/Amogus/kill"
 		]
 	},
 	"custom.amogus.report":
 	{
 		"sounds":
 		[
-			"custom/Amogus/report"
+			 "custom/Amogus/report"
 		]
 	},
 	"custom.amogus.vent":
 	{
 		"sounds":
 		[
-			"custom/Amogus/vent"
-		]
-	},
-	"custom.luffy.hdr":
-	{
-		"sounds":
-		[
-			"custom/Luffy/hdr"
+			 "custom/Amogus/vent"
 		]
 	},
 	"custom.papa.saut":
 	{
 		"sounds":
 		[
-			"custom/Papa/saut"
+			 "custom/Papa/saut"
+		]
+	},
+	"custom.raelynn.brutalite":
+	{
+		"sounds":
+		[
+			 "custom/Raelynn/brutalite"
+		]
+	},
+	"custom.raelynn.brutalite_hit":
+	{
+		"sounds":
+		[
+			 "custom/Raelynn/brutalite_hit"
+		]
+	},
+	"custom.raelynn.carnage":
+	{
+		"sounds":
+		[
+			 "custom/Raelynn/carnage"
+		]
+	},
+	"custom.raelynn.dark_knight":
+	{
+		"sounds":
+		[
+			 "custom/Raelynn/dark_knight"
+		]
+	},
+	"custom.raelynn.inebranlable":
+	{
+		"sounds":
+		[
+			 "custom/Raelynn/inebranlable"
 		]
 	},
 	"custom.sammy.transcendance":
 	{
 		"sounds":
 		[
-			"custom/Sammy/transcendance"
+			 "custom/Sammy/transcendance"
 		]
 	},
 	"custom.sammy.ultra_instinct":
 	{
 		"sounds":
 		[
-			"custom/Sammy/ultra_instinct"
+			 "custom/Sammy/ultra_instinct"
 		]
 	},
 	"custom.shrek.shrek":
 	{
 		"sounds":
 		[
-			"custom/Shrek/Shrek"
+			 "custom/Shrek/Shrek"
 		]
 	},
 	"custom.shrek.shrek2":
 	{
 		"sounds":
 		[
-			"custom/Shrek/Shrek2"
+			 "custom/Shrek/Shrek2"
 		]
 	}
 }
