@@ -27,39 +27,39 @@
 			 "custom/Papa/saut"
 		]
 	},
-	"custom.raelynn.brutalite":
+	"custom.raelyn.brutalite":
 	{
 		"sounds":
 		[
-			 "custom/Raelynn/brutalite"
+			 "custom/Raelyn/brutalite"
 		]
 	},
-	"custom.raelynn.brutalite_hit":
+	"custom.raelyn.brutalite_hit":
 	{
 		"sounds":
 		[
-			 "custom/Raelynn/brutalite_hit"
+			 "custom/Raelyn/brutalite_hit"
 		]
 	},
-	"custom.raelynn.carnage":
+	"custom.raelyn.carnage":
 	{
 		"sounds":
 		[
-			 "custom/Raelynn/carnage"
+			 "custom/Raelyn/carnage"
 		]
 	},
-	"custom.raelynn.dark_knight":
+	"custom.raelyn.dark_knight":
 	{
 		"sounds":
 		[
-			 "custom/Raelynn/dark_knight"
+			 "custom/Raelyn/dark_knight"
 		]
 	},
-	"custom.raelynn.inebranlable":
+	"custom.raelyn.inebranlable":
 	{
 		"sounds":
 		[
-			 "custom/Raelynn/inebranlable"
+			 "custom/Raelyn/inebranlable"
 		]
 	},
 	"custom.sammy.transcendance":
